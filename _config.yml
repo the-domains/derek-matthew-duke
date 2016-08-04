@@ -1,9 +1,18 @@
-layout_spectrum: 0.7626680778339505
-typography_spectrum: 0.8761132694780827
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.26817078166641295
-  lightness: 0.12903350917622447
-  saturation: 0.45439231977798045
+  saturation: 0.4543923197779804
+  brandStrength: 0.2681707816664129
   rhythmicContrast: 0.7138677455950528
   brandColors:
     - '#0A0000'
@@ -11,5 +20,8 @@ color:
     - '#B52A32'
     - '#CE984B'
     - '#FBEADB'
-name: derek matthew duke
+  lightness: 0.1290335091762245
+typography_spectrum: 0.1875
 description: ignore my antlers
+layout_spectrum: 0.7626680778339505
+name: derek matthew duke
