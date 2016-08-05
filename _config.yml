@@ -1,42 +1,42 @@
-name: derek matthew duke
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.11222
+title: derek matthew duke
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 description: ignore my antlers
-title: derek matthew duke
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.4543923197779804
+  brandStrength: 0.2681707816664129
+  rhythmicContrast: 0.7138677455950528
   brandColors:
     - '#0A0000'
     - '#21503B'
     - '#B52A32'
     - '#CE984B'
     - '#FBEADB'
-  brandStrength: 0.2681707816664129
   lightness: 0.1290335091762245
-  saturation: 0.4543923197779804
-  rhythmicContrast: 0.7138677455950528
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: derek matthew duke
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.06869771
+layout_spectrum: 1
