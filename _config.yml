@@ -15,6 +15,7 @@ collections:
       format: rss
       number: 10
 description: ignore my antlers
+title: derek matthew duke
 cta:
   domain: null
   bucket: null
